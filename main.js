@@ -42,20 +42,20 @@ const scrollRevealTop = {
 
 const scrollRevealLeft = {
   origin: "left",
-  distance: "30px",
+  distance: "10px",
   duration: 1500,
   reset: true,
 };
 
 const scrollRevealRight = {
   origin: "right",
-  distance: "30px",
+  distance: "10px",
   duration: 1500,
   reset: true,
 };
 
 ScrollReveal().reveal(
-  `.header-container, .img-meeting-pleople, .introduction, .swiper, .section-three h2, .section-four h2, .section-five h2`,
+  `.img-meeting-pleople, .introduction, .swiper, .section-three h2, .section-four h2, .section-five h2`,
   scrollRevealTop
 );
 
