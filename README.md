@@ -22,36 +22,23 @@ Aqui estão as tecnologias usadas neste projeto
 
 ### 1 - Esta é a pagina inicial do projeto <3 .
 
-![Homepage image](https://github.com/MagalhaesDev/Leading-page-invest-/blob/main/assets/img-readme/main.png)
+![Pagina Inicial](https://github.com/MagalhaesDev/Leading-page-invest-/blob/main/assets/img-readme/main.png)
 
 ### 2 - Seção na qual apresenta os integrantes do time, utilizar a biblioteca swiper para utilizar carrossel
 
-![Equip](https://github.com/MagalhaesDev/Leading-page-invest-/blob/main/assets/img-readme/equip.png)
+![Equipe](https://github.com/MagalhaesDev/Leading-page-invest-/blob/main/assets/img-readme/equip.png)
 
-### 3 - This section, related to services, is intended to present to the users the services provided by the academy.
+### 3 - Esta seção foi utilizada para aprensentar a historia da empresa, através de lorem ipsum
 
-![Services](https://github.com/MagalhaesDev/oldschool.-Leading-page/blob/main/public/Readme/servico-mobile.png)
+![Historia](https://github.com/MagalhaesDev/Leading-page-invest-/blob/main/assets/img-readme/history.png)
 
-### 4 - This section shows the testimonials from users using the swiper library.
+### 4 - Seção de serviços foi feita para apresentar os produtos e os metodos de soluções de problema que a empresa oferece
 
-![Testimonials](https://github.com/MagalhaesDev/oldschool.-Leading-page/blob/main/public/Readme/depoimento-mobile.png)
+![Serviços](https://github.com/MagalhaesDev/Leading-page-invest-/blob/main/assets/img-readme/services.png)
 
-### 4 - This section contains the representatives' contacts. Such as whatsapp, telephone, location and address.
+### 4 - Seção de contato, para o usuario fazer um pré cadastro e efetivamente o retorno da empresa.
 
-![Contact](https://github.com/MagalhaesDev/oldschool.-Leading-page/blob/main/public/Readme/contato-mobile.png)
-
-### 4 - At the bottom of the site we have a social networking section.
-
-![Footer](https://github.com/MagalhaesDev/oldschool.-Leading-page/blob/main/public/Readme/footer-mobile.png)
-
-## Features
-
-The main features of the application are:
- - Leading page
- - UX and UI
- - Swiper
- - Scroll Reveal
- - Mobile-First
+![Contato](https://github.com/MagalhaesDev/Leading-page-invest-/blob/main/assets/img-readme/contact.png)
 
 
 ## Links
