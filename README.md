@@ -59,4 +59,4 @@ Aqui estão as tecnologias usadas neste projeto
   * **Mateus Magalhaes**
 
   Por favor, siga o github e junte-se a nós!
-  Obrigado por me visitar e bom code.
+  Obrigado por me visitar e bora code.
