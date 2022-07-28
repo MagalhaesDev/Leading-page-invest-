@@ -25,7 +25,7 @@ Aqui estão as tecnologias usadas neste projeto
 
 ### 1 - This is the main page of the project <3 .
 
-![Homepage image](https://github.com/MagalhaesDev/oldschool.-Leading-page/blob/main/public/Readme/inicio-mobile.png)
+![Homepage image](https://github.com/MagalhaesDev/Leading-page-invest-/blob/main/assets/img-readme/main.png)
 
 ### 2 - Section on the treated subject, with text in Lorem ipsum.
 
