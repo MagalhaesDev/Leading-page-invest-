@@ -36,24 +36,27 @@ Aqui estão as tecnologias usadas neste projeto
 
 ![Serviços](https://github.com/MagalhaesDev/Leading-page-invest-/blob/main/assets/img-readme/services.png)
 
-### 4 - Seção de contato, para o usuario fazer um pré cadastro e efetivamente o retorno da empresa.
+### 5 - Seção de contato, para o usuario fazer um pré cadastro e efetivamente o retorno da empresa.
 
 ![Contato](https://github.com/MagalhaesDev/Leading-page-invest-/blob/main/assets/img-readme/contact.png)
 
+### 6 - Mobile. 
+
+![Mobile](https://github.com/MagalhaesDev/Leading-page-invest-/blob/main/assets/img-readme/mobile.png)
+
+
 
 ## Links
-  - Repository: https://magalhaesdev.github.io/oldschool.-Leading-page/
-    -  In case of sensitive bugs like security vulnerabilities, please contact.
-      mateusmagalhaesemidio@gmail.com directly instead of using issue tracker. We value your effort.
-      to improve the security and privacy of this project!
+  - Repositorio: https://magalhaesdev.github.io/Leading-page-invest-/
+    -  Em caso de bugs, como vulnerabilidades e segurança, entre em contato com mateusmagalhaesemidio@gmail.com diretamente em vez de usar o rastreador de problemas. Valorizamos o seu esforço. para melhorar a segurança e privacidade deste projeto!
 
-  ## Versioning
+  ## Versão
 
   1.0.0
 
-  ## Authors
+  ## Autor
 
   * **Mateus Magalhaes**
 
-  Please follow github and join us!
-  Thanks to visiting me and good coding!
+  Por favor, siga o github e junte-se a nós!
+  Obrigado por me visitar e bom code.
