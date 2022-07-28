@@ -20,16 +20,13 @@ Aqui estão as tecnologias usadas neste projeto
 
 * Github
 
-
-## How to use
-
-### 1 - This is the main page of the project <3 .
+### 1 - Esta é a pagina inicial do projeto <3 .
 
 ![Homepage image](https://github.com/MagalhaesDev/Leading-page-invest-/blob/main/assets/img-readme/main.png)
 
-### 2 - Section on the treated subject, with text in Lorem ipsum.
+### 2 - Seção na qual apresenta os integrantes do time, utilizar a biblioteca swiper para utilizar carrossel
 
-![About](https://github.com/MagalhaesDev/oldschool.-Leading-page/blob/main/public/Readme/sobre-mobile.png)
+![Equip](https://github.com/MagalhaesDev/Leading-page-invest-/blob/main/assets/img-readme/equip.png)
 
 ### 3 - This section, related to services, is intended to present to the users the services provided by the academy.
 
